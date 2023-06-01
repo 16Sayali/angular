@@ -1,3 +1,8 @@
+Npm init –y
+Npm i express
+Run: node app.js
+
+
 const express = require('express'); 
 const path = require('path');
 
