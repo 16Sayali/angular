@@ -1,3 +1,18 @@
+Angular 
+Install npm if not there 
+npm install -g npm
+mkdir angulardemo
+cd angulardemo
+Intall angular cli – npm install -g @angular/cli@latest
+ng version
+Ng new foldername(first.app)
+cd first.app
+ng serve
+Routing y
+CSS
+Generate component : ng generate component <component-name>
+
+
 register-form-component.html
     <div class="container">
       <label for="uname"><b>Username  </b></label>
